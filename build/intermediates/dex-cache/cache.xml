@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_d532a68ccfd11605c8cf8d6e1169624f13ca23f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_b191dac9783d3966a143d12f4c46d66605347270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_9e289cdf13b9048acf567e1c4087430f35e0c945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_c45fdf15076ba1edd7c3d13af8b9e897b6c3f2f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="774d56cd5e43909709916442812550376be7b727">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b357614c1126498fed9c93b2eb8b77dcb8a5bd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_fcb884110023e9b4458874718e759db089ce37fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_3755f132667574488ad5a7db51f35606932b7816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_dbfddf4535b05f118e94ac8f208ce2e0e9cfbba7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_844f82a566869802e61b37186755b93341ad112f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_7c636f3c511de476c7c8fdcb4a754a74574f63e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e08798dfddb6616ca82bb7b1f8c66cacfe90491">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c4ced5c98dec8f1400a73fb7a1209db26a52ff9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/aluno/AndroidStudioProjects/ListView-Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_0c38bd128d57739f47e6dc69a53b38e48725d7b3/classes.dex" />
+    </item>
+
+</items>
